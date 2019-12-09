@@ -1,6 +1,6 @@
 # Biased-Prediction-A-Comparative-Analysis
 
-Please run the file 'main_script.py' to begin the project exwcution.
+Please run the file 'main_script.py' to begin the project execution.
 
 Please uncomment the rule based classifier in line numbers 51 and 75 as the model build time is too high for rule based classifier.
 
